@@ -6,7 +6,6 @@ Glatop covers Windows desktop and doesn't change taskbar, start menu and system 
 You can start glatop without changing Explorer shell.
 
 <img src="http://josshad.github.io/Glatop/fEx.jpg">
-<img src="http://josshad.github.io/Glatop/fEx2.jpg">
 
 
 
@@ -23,7 +22,7 @@ Glatop currently supports all versions of Windows 7, 8, and 10. Users can easily
 
   - Looks like standart desktop (Can't be minimized, always on bottom, default icons)
   - Free locations of items (non grid, like OS X Desktop)
-  - Top-level folders become a desktop extension (GLA screens). You can group same files into that GLA screens and access them without opening a separate Explorer window 
+  - Top-level folders become a desktop extension (Glatop screens). You can group same files into that screens and access them without opening a separate Explorer window 
   
     <img src="http://josshad.github.io/Glatop/folder.gif"> 
     <img src="http://josshad.github.io/Glatop/folder2.gif">
